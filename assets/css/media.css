@@ -1,0 +1,36 @@
+@media (max-width: 560px){
+    .char_info{
+        width: 350px;
+    }
+
+    .charInfoLeft{
+        font-size: 15px;
+        width: 200px;
+        height: 150px;
+    }
+
+    .charInfoLeft h2{
+        margin-bottom: 15px;
+    }
+
+    .charInfoRight img{
+        width: 250px;
+        height: 250px;
+    }
+
+    .char_lifeBar{
+        width: 160px;
+    }
+
+    #battle_left,
+    #battle_right{
+        min-width: 120px;
+        width: 130px;
+        height: 200px;
+    }
+
+    #battle_center{
+        width: 70px;
+        height: 70px;
+    }
+}
